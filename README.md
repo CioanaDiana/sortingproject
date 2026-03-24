@@ -1,3 +1,3 @@
 This is a repo containing the progress of the AW sorting algorithm project
 
-note: I am genuinely unable to use the uvt account to push so the large files were pushed from one of my other github accounts that refuses to leave no matter how many configs and logins i change. I spent well over 5 hours attemping to fix this with no luck. Other pushes will use the regular account as long as they aren't folders/large files
+There is currently a bug on this repo showing 2 contributors. In the activity you can see only this account pushing and making edits, the other one is stuck in the repo for some reason despite not contributing anything. Remaking the repo has not fixed this issue so i am currently unable to get rid of it
