@@ -1,0 +1,2 @@
+ordered.py has a high chance of corruption. i can't for the life of me figure out why, mess around with the encoding if it happens and theres a ~20% chance it will be fixed.
+use it with encoding utf-16 for length2a, none for length2b and length2c for likely best results
